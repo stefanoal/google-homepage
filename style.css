@@ -1,0 +1,79 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: monospace,fantasy,cursive;
+}
+#absto{
+  float: left;
+  list-style-type: none;
+}
+#absto li{
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: 12px;
+}
+#menu {
+  float: right;
+}
+#menu li{
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: 12px;
+}
+#menu img {
+      width: 30px;
+      height: 20px;
+      padding: 0px 10px;
+      position: relative;
+      top: 5px;
+}
+#menu button {
+  padding: 10px 10px;
+  height: 40px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  border-style: none;
+}
+#logo img{
+  height: 100px;
+  margin: 230px auto 30px;
+  padding-left: 300px;
+  width: 350px;
+}
+#srch input{
+  width: 500px;
+  height: 28px;
+  margin:0 400px;
+}
+#srch div {
+  margin: 30px 520px;
+}
+#srch button {
+  height: 28px;
+  background-color: #eaedf2;
+  border-style: none;
+}
+footer {
+  margin-top: 150px;
+  background-color: #f4f6f9;
+}
+#adv_bu{
+  float: left;
+  list-style-type: none;
+}
+#adv_bu li{
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: 12px;
+}
+#termpriv {
+  float: right;
+}
+#termpriv li{
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: 12px;
+}
